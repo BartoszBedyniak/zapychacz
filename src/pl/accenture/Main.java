@@ -3,8 +3,6 @@ package pl.accenture;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        //zmiana lokalna
-	    //zmiana zdalne repo
+
     }
 }
